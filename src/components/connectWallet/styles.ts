@@ -5,4 +5,5 @@ export const StyledConnectWallet = styled.div`
   border-radius: 24px; // TODO: use theme
   background-color: #f31d92;
   color: #fff;
+  cursor: pointer;
 `;
